@@ -1,7 +1,4 @@
-[submodule "klipper"]
-	path = klipper
-	url = https://github.com/sunbowch/qidiklipper.git
-	branch = PLUS4
+
 [submodule "moonraker"]
 	path = moonraker
 	url = https://github.com/QIDITECH/moonraker.git
